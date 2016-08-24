@@ -1,0 +1,29 @@
+#gridPane {
+    -fx-background-color:  linear-gradient(lightgray, gray);
+    -fx-border-color: white;
+    -fx-border-radius: 20;
+    -fx-background-radius: 20;
+}
+
+#borderPane {
+    -fx-background-color:  linear-gradient(gray,DimGrey );
+}
+
+#infoLabel {
+    -fx-text-fill: red;
+}
+
+#btnFirst {
+    -fx-background-radius: 30, 30, 29, 28;
+    -fx-padding: 3px 10px 3px 10px;
+    -fx-background-color: linear-gradient(orange, orangered );
+}
+
+#btnSecond {
+    -fx-background-radius: 30, 30, 29, 28;
+    -fx-padding: 3px 10px 3px 10px;
+    -fx-background-color: linear-gradient(red, orangered );
+}
+#text {
+    -fx-fill:  linear-gradient(orange , orangered);
+}
